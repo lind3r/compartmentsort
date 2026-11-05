@@ -51,3 +51,7 @@
 *.[pP][dD][bB]          binary
 *.[dD][yY][lL][iI][bB]  binary
 *.[jJ][aA][rR]          binary
+
+# Video files are binary
+*.[mM][pP]4             binary
+*.[wW][eE][bB][mM]       binary

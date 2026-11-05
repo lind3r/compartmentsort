@@ -1,4 +1,4 @@
-package com.lind3r.compartmentsort.mixins;
+package com.lind3r.compartmentsort;
 
 import java.util.ArrayList;
 import java.util.Collections;
