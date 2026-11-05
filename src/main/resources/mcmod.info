@@ -1,0 +1,21 @@
+{
+	"modListVersion": 2,
+	"modList": [{
+		"modid": "${modId}",
+		"name": "${modName}",
+		"description": "Bogosorter's sort key (middle click) works in Binnie Compartments: sorts and merges all tabs at once.",
+		"version": "${modVersion}",
+		"mcversion": "${minecraftVersion}",
+		"url": "",
+		"updateUrl": "",
+		"authorList": ["lind3r"],
+		"credits": "Mod written with Claude.",
+		"logoFile": "",
+		"screenshots": [],
+		"parent": "",
+		"requiredMods": ["bogosorter", "BinnieCore"],
+		"dependencies": ["bogosorter", "BinnieCore"],
+		"dependants": [],
+		"useDependencyInformation": true
+	}]
+}
