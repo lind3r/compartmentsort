@@ -39,3 +39,6 @@ layout.json
 /libs/
 
 /releases/
+
+# Demo videos (too big for the repo)
+*.mp4

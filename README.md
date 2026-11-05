@@ -11,6 +11,8 @@ Binnie's **Compartment** (Extra Trees/Binnie Core storage) work better with the 
 - **Find It highlighting:** Find It's item search (key T) now highlights the matching slots inside a compartment, and
   outlines the tabs that hold them.
 
+![Find It highlighting in a Diamond Compartment: the matching slots in the open tab are highlighted, and the tab that holds them is outlined](findit-highlight.png)
+
 Needs Bogosorter and Binnie Core (both in GTNH). Find It is optional.
 
 > [!CAUTION]
