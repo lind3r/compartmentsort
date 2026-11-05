@@ -3,6 +3,9 @@
 A small client + server add-on for [GT New Horizons](https://www.gtnewhorizons.com/) 2.9 (Minecraft 1.7.10) that makes
 Binnie's **Compartment** (Extra Trees/Binnie Core storage) work better with the pack's inventory tools.
 
+> [!CAUTION]
+> A hobby project tested by one person in one GTNH 2.9.0 world. Back up your world before trying it.
+
 - **Sorting:** Bogosorter's in-GUI sort key (middle click by default) sorts a compartment from its own window. All tabs
   are sorted together, so equal items from different tabs are merged and fill tab 1 first, then tab 2, ...
 - **Shift-click into any tab:** shift-click (and shift-drag) from your inventory no longer stops when the open tab is
@@ -13,10 +16,16 @@ Binnie's **Compartment** (Extra Trees/Binnie Core storage) work better with the 
 
 ![Find It highlighting in a Diamond Compartment: the matching slots in the open tab are highlighted, and the tab that holds them is outlined](findit-highlight.png)
 
-Needs Bogosorter and Binnie Core (both in GTNH). Find It is optional.
+## How to install
 
-> [!CAUTION]
-> A hobby project tested by one person in one GTNH 2.9.0 world. Back up your world before trying it.
+1. Back up your world.
+2. Download `compartmentsort-<version>.jar` from the [Releases](https://github.com/lind3r/compartmentsort/releases)
+   page.
+3. Put it into your instance's `mods` folder and start the game. On a server, put it into the server's `mods` folder
+   too.
+
+Needs Bogosorter and Binnie Core (both in GTNH). Find It is optional. To uninstall, delete the jar; nothing in your
+world depends on it.
 
 ## How it works
 
